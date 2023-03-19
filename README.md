@@ -1,6 +1,7 @@
 # 💫 About Me:
 👋 Hi, I’m Ashwani<br>👀 I’m interested in coding and data science<br>🌱 I’m currently learning JAVA<br>💞️ I’m looking to collaborate on internship learning new things<br>📫 How to reach me ashwaniakp13@gmail.com
 
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif"> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aashiakp_13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashwani-kumari-7b5a9421a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/@akumari3063) 
