@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Ashwani<br>👀 I’m interested in coding and data science<br>🌱 I’m currently JAVA<br>💞️ I’m looking to collaborate on internship learning new things<br>📫 How to reach me ashwaniakp13@gmail.com
+👋 Hi, I’m Ashwani<br>👀 I’m interested in coding and data science<br>🌱 I’m currently learning JAVA<br>💞️ I’m looking to collaborate on internship learning new things<br>📫 How to reach me ashwaniakp13@gmail.com
 
 
 ## 🌐 Socials:
